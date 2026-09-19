@@ -1,16 +1,33 @@
-## Hi there 👋
+# X10 THINK 🚀
 
-<!--
-**X10THINK/X10THINK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building businesses through innovation.
 
-Here are some ideas to get you started:
+X10 THINK is a technology and innovation team focused on creating
+modern digital solutions for businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What We Build
+
+💻 Custom Software  
+🌐 Websites & Digital Platforms  
+🤖 AI-Powered Solutions  
+📱 Mobile Applications  
+📊 Business Management Systems  
+🔗 APIs & Backend Systems  
+☁️ Cloud-Based Solutions
+
+## Our Approach
+
+We combine technology, creativity, and business thinking to turn
+ideas into practical digital products.
+
+> Build. Innovate. Grow.
+
+## Connect With Us
+
+📧 x10thinkinnov@gmail.com
+
+🇱🇰 Sri Lanka
+
+---
+
+© 2026 X10 THINK. All rights reserved.
